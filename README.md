@@ -12,9 +12,8 @@ Este projeto utiliza HTML, JavaScript e CSS para criar uma camada personalizada 
 
 
 ## Demonstração
-Veja em ação no vídeo de demonstração clicando aqui.
+Veja em ação no vídeo de demonstração [clicando aqui](https://ambitious-ocean-0585d1c10.3.azurestaticapps.net/)clicando aqui.
 
-Nota: Substitua "LINK_DA_DEMO" pelo link real do seu vídeo de demonstração.
 
 ## Como usar
 
