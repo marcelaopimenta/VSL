@@ -1,0 +1,13 @@
+#containerVideoPlayer {
+    position: relative
+}
+
+.progress
+{
+    width: 800px; 
+    border-radius: 0px !important;
+}
+#progressbarBootStrap
+{
+    height: 30px;
+}
