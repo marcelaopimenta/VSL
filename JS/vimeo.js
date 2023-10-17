@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $( function() {
+    $(function() {
   
           var options = {
             url: "https://player.vimeo.com/video/723382089?h=e5bd1fe6ec",
@@ -40,8 +40,7 @@ $(document).ready(function() {
             videoPlayer.play();
           });
   
-          function setProgressValue(value)
-          {
+          function setProgressValue(value) {
             $('#progressbarBootStrap').attr("aria-valuenow",value);
             $('#progressbarBootStrap').attr("style","width:" + value + "%");
           }
