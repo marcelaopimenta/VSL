@@ -11,7 +11,7 @@ This project uses HTML, JavaScript, and CSS to create a customized layer that ca
 - Customizable: With CSS and JavaScript, you can tailor the look and functionality to your needs.
 
 
-## Características
+## DEMO
 See it in action in the demo video by [clicking here](https://ambitious-ocean-0585d1c10.3.azurestaticapps.net/).
 
 
